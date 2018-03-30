@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme\n"
+"POT-Creation-Date: 2016-09-16 16:09+0200\n"
+"PO-Revision-Date: 2016-09-16 17:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: Transactium <info@transactium.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wc-agechecked.php:41 wc-agechecked.php:74
+msgid "AgeChecked"
+msgstr "AgeChecked!"
+
+#: wc-agechecked.php:81
+msgid "Enable / Disable"
+msgstr "Enable / Disable"
+
+#: wc-agechecked.php:82
+msgid "Select to enable age checks."
+msgstr "Select to enable age checks."
+
+#: wc-agechecked.php:85
+msgid "Enables age checks on checkout"
+msgstr "Jixeghel l-age checks qabel checkout"
+
+#: wc-agechecked.php:88
+msgid "Agechecked.com Url"
+msgstr "Agechecked.com Url"
+
+#: wc-agechecked.php:89
+msgid ""
+"Please insert the API URL provided by your agechecked.com account manager."
+msgstr ""
+"Please insert the API URL provided by your agechecked.com account manager."
+
+#: wc-agechecked.php:98
+msgid "Agechecked.com Public Key"
+msgstr "Agechecked.com Public Key"
+
+#: wc-agechecked.php:99
+msgid ""
+"Please insert the public key provided by your agechecked.com account manager."
+msgstr ""
+"Please insert the public key provided by your agechecked.com account manager."
+
+#: wc-agechecked.php:108
+msgid "Agechecked.com Private Key"
+msgstr "Agechecked.com Private Key"
+
+#: wc-agechecked.php:109
+msgid ""
+"Please insert the private key provided by your agechecked.com account "
+"manager."
+msgstr ""
+"Please insert the private key provided by your agechecked.com account "
+"manager."
+
+#: wc-agechecked.php:118
+msgid "Agechecked.com Product Category"
+msgstr "Agechecked.com Product Category"
+
+#: wc-agechecked.php:119
+msgid ""
+"Please enter the product category that should be age checked. Ensure "
+"category exists."
+msgstr ""
+"Please enter the product category that should be age checked. Ensure "
+"category exists."
+
+#: wc-agechecked.php:124
+msgid "Allocates age checks to the selected category of products."
+msgstr "Allocates age checks to the selected category of products."
+
+#: wc-agechecked.php:283
+msgid "Could not age check you"
+msgstr "Could not age check you"
+
+#: wc-agechecked.php:301
+msgid "AgeVerifiedId"
+msgstr "AgeVerifiedId"
